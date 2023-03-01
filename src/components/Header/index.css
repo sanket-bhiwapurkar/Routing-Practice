@@ -1,0 +1,28 @@
+.nav-bar {
+  display: flex;
+  align-items: center;
+  color: #12022f;
+  padding: 5px 30px;
+}
+.logo {
+  width: 30px;
+}
+.logo-title {
+  font-size: 18px;
+  margin-left: 6px;
+  margin-right: auto;
+}
+.menu-list {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+  margin-left: auto;
+}
+.menu-list-item {
+  text-decoration: none;
+  font-size: 18px;
+  margin-left: 18px;
+  font-weight: bold;
+}

@@ -1,0 +1,16 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  flex-grow: 1;
+}
+.home {
+  width: 200px;
+}
+.heading {
+  font-size: 70px;
+  font-weight: 500;
+  color: #551e53;
+}
